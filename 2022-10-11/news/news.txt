@@ -1,0 +1,1 @@
+headline*photo*details&headline_1*photo_1*details_1&headline_2*photo_2*details_2
